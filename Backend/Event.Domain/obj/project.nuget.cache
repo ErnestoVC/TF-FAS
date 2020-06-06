@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zxj+85sdmVFCHt/WvfOrXOauHmVzOEEfvzbfAwEaziYQyRcylMC+31ArRmo0JMVo40m6EHtZWqHMjPxdw3v5aQ==",
+  "dgSpecHash": "hEcWYoWtV0dUx2EvieCRxiZGVrKh5K+/UP0YcHwJmbrweJS+W6Ur5XYS7xZTXqy4ubs0JpWYW6dd97XVsLko6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj",
+  "projectFilePath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\netit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\netit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
