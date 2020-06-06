@@ -1,0 +1,12 @@
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Repository\bin\Debug\netstandard2.0\Event.Repository.deps.json
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Repository\bin\Debug\netstandard2.0\Event.Repository.dll
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Repository\bin\Debug\netstandard2.0\Event.Repository.pdb
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Repository\bin\Debug\netstandard2.0\Event.Domain.dll
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Repository\bin\Debug\netstandard2.0\Event.Domain.pdb
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Repository\obj\Debug\netstandard2.0\Event.Repository.csprojAssemblyReference.cache
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Repository\obj\Debug\netstandard2.0\Event.Repository.AssemblyInfoInputs.cache
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Repository\obj\Debug\netstandard2.0\Event.Repository.AssemblyInfo.cs
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Repository\obj\Debug\netstandard2.0\Event.Repository.csproj.CoreCompileInputs.cache
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Repository\obj\Debug\netstandard2.0\Event.Repository.csproj.CopyComplete
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Repository\obj\Debug\netstandard2.0\Event.Repository.dll
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Repository\obj\Debug\netstandard2.0\Event.Repository.pdb

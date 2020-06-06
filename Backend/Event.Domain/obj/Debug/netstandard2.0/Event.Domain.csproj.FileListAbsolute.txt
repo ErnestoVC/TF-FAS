@@ -1,0 +1,9 @@
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Domain\bin\Debug\netstandard2.0\Event.Domain.deps.json
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Domain\bin\Debug\netstandard2.0\Event.Domain.dll
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Domain\bin\Debug\netstandard2.0\Event.Domain.pdb
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Domain\obj\Debug\netstandard2.0\Event.Domain.csprojAssemblyReference.cache
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Domain\obj\Debug\netstandard2.0\Event.Domain.AssemblyInfoInputs.cache
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Domain\obj\Debug\netstandard2.0\Event.Domain.AssemblyInfo.cs
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Domain\obj\Debug\netstandard2.0\Event.Domain.csproj.CoreCompileInputs.cache
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Domain\obj\Debug\netstandard2.0\Event.Domain.dll
+C:\Users\netit\Documents\GitHub\TF-FAS\Backend\Event.Domain\obj\Debug\netstandard2.0\Event.Domain.pdb

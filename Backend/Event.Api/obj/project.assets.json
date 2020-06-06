@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Event.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Event.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Event.Domain.dll": {}
+        }
+      },
+      "Event.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Event.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Event.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Event.Repository.dll": {}
+        }
+      },
+      "Event.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Event.Domain": "1.0.0",
+          "Event.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Event.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Event.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Event.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Event.Domain/Event.Domain.csproj",
+      "msbuildProject": "../Event.Domain/Event.Domain.csproj"
+    },
+    "Event.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Event.Repository/Event.Repository.csproj",
+      "msbuildProject": "../Event.Repository/Event.Repository.csproj"
+    },
+    "Event.Service/1.0.0": {
+      "type": "project",
+      "path": "../Event.Service/Event.Service.csproj",
+      "msbuildProject": "../Event.Service/Event.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Event.Domain >= 1.0.0",
+      "Event.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\netit\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Api\\Event.Api.csproj",
+      "projectName": "Event.Api",
+      "projectPath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Api\\Event.Api.csproj",
+      "packagesPath": "C:\\Users\\netit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\netit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj": {
+              "projectPath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj"
+            },
+            "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Service\\Event.Service.csproj": {
+              "projectPath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Service\\Event.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
