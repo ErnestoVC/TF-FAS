@@ -3111,31 +3111,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\netit\\.nuget\\packages\\": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj",
+      "projectUniqueName": "E:\\Juan_Jose_Material\\API-FAS\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj",
       "projectName": "Event.Repository",
-      "projectPath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj",
-      "packagesPath": "C:\\Users\\netit\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\obj\\",
+      "projectPath": "E:\\Juan_Jose_Material\\API-FAS\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "E:\\Juan_Jose_Material\\API-FAS\\TF-FAS\\Backend\\Event.Repository\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\netit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj": {
-              "projectPath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj"
+            "E:\\Juan_Jose_Material\\API-FAS\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj": {
+              "projectPath": "E:\\Juan_Jose_Material\\API-FAS\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj"
             }
           }
         }
@@ -3161,16 +3167,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

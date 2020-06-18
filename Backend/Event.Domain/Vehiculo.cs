@@ -1,5 +1,6 @@
 namespace Event.Domain
 {
+
     public class Vehiculo
     {
         public int Id {get;set;}
@@ -8,5 +9,9 @@ namespace Event.Domain
         public string nroLlantas {get;set;}
         public string nroPlaca {get;set;}
         public string año {get;set;}
+
+        public Motor motor { get; set; }
+        public int IdMotor  { get; set; }
+
     }
 }
