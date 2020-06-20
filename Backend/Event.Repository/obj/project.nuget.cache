@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SAud+Kv87akY0Y7A58xX2nb2n3sM//QezYNHQLllOh50eU/46qujaIBVHJlNb7bvt7H9QQZurp7BKHl2jAU4sQ==",
+  "dgSpecHash": "ADAhGzJb42JafcC+c5ZIeE2ff8alS/0cbfIZLh1pRlprkDyGzEQEy+4AfE2sd344QOX+lVPUjtCnB/qoOVU6tQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj",
+  "projectFilePath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\netit\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.4\\microsoft.entityframeworkcore.2.2.4.nupkg.sha512",
     "C:\\Users\\netit\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.2.4\\microsoft.entityframeworkcore.abstractions.2.2.4.nupkg.sha512",

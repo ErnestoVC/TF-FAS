@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Service\\Event.Service.csproj": {}
+    "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Service\\Event.Service.csproj": {}
   },
   "projects": {
-    "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj": {
+    "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj",
         "projectName": "Event.Domain",
-        "projectPath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj",
+        "projectPath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj",
         "packagesPath": "C:\\Users\\netit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\obj\\",
+        "outputPath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\netit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\netit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,29 +59,31 @@
         }
       }
     },
-    "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj": {
+    "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj",
         "projectName": "Event.Repository",
-        "projectPath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj",
+        "projectPath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj",
         "packagesPath": "C:\\Users\\netit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\obj\\",
+        "outputPath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\netit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\netit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj": {
-                "projectPath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj"
+              "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj": {
+                "projectPath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj"
               }
             }
           }
@@ -118,32 +122,34 @@
         }
       }
     },
-    "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Service\\Event.Service.csproj": {
+    "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Service\\Event.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Service\\Event.Service.csproj",
+        "projectUniqueName": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Service\\Event.Service.csproj",
         "projectName": "Event.Service",
-        "projectPath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Service\\Event.Service.csproj",
+        "projectPath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Service\\Event.Service.csproj",
         "packagesPath": "C:\\Users\\netit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Service\\obj\\",
+        "outputPath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\netit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\netit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj": {
-                "projectPath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj"
+              "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj": {
+                "projectPath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Domain\\Event.Domain.csproj"
               },
-              "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj": {
-                "projectPath": "c:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj"
+              "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj": {
+                "projectPath": "C:\\Users\\netit\\Documents\\GitHub\\TF-FAS\\Backend\\Event.Repository\\Event.Repository.csproj"
               }
             }
           }
